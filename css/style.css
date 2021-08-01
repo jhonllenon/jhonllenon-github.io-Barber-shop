@@ -313,7 +313,7 @@ body{
 
 .gallery .gallery-wrapper div{
     border: 10px solid var(--color-primary);
-    margin: 4.5px;
+    margin: 4px;
     width: 30%;
 }
 .gallery .gallery-wrapper div img{
